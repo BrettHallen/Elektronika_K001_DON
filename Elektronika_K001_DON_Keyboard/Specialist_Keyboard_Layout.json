@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Specialist Keyboard",
+    "author": "Brett Hallen",
+    "pcb": true
+  },
+  [
+    {
+      "x": 0.5,
+      "a": 7
+    },
+    "FUNC",
+    "HELP",
+    "NEW",
+    "LOAD",
+    "SAVE",
+    "RUN",
+    "STOP",
+    "CONT",
+    "EDIT",
+    {
+      "c": "#CE4D61",
+      "f": 7
+    },
+    "◼",
+    "◻",
+    "⎅",
+    {
+      "x": 0.5,
+      "f": 3
+    },
+    "СБР"
+  ],
+  [
+    {
+      "x": 0.5,
+      "c": "#F8E052",
+      "a": 5
+    },
+    ";\n\n\n\n\n\n+",
+    "1\n\n\n\n\n\n!",
+    "2\n\n\n\n\n\n\"",
+    "3\n\n\n\n\n\n#",
+    "4\n\n\n\n\n\n$",
+    "5\n\n\n\n\n\n%",
+    "6\n\n\n\n\n\n&",
+    "7\n\n\n\n\n\n'",
+    "8\n\n\n\n\n\n(",
+    "9\n\n\n\n\n\n)",
+    "0",
+    "-\n\n\n\n\n\n="
+  ],
+  [
+    {
+      "x": 0.75
+    },
+    "Й\n\n\n\n\n\nJ",
+    "Ц\n\n\n\n\n\nC",
+    "У\n\n\n\n\n\nU",
+    "К\n\n\n\n\n\nK",
+    "Е\n\n\n\n\n\nE",
+    "Н\n\n\n\n\n\nN",
+    "Г\n\n\n\n\n\nG",
+    "Ш\n\n\n\n\n\n[",
+    "Щ\n\n\n\n\n\n]",
+    "З\n\n\n\n\n\nZ",
+    "Х\n\n\n\n\n\nH",
+    ":\n\n\n\n\n\n*"
+  ],
+  [
+    {
+      "x": 1
+    },
+    "Ф\n\n\n\n\n\nF",
+    "Ы\n\n\n\n\n\nY",
+    "В\n\n\n\n\n\nW",
+    "А\n\n\n\n\n\nA",
+    "П\n\n\n\n\n\nP",
+    "Р\n\n\n\n\n\nR",
+    "О\n\n\n\n\n\nO",
+    "Л\n\n\n\n\n\nL",
+    "Д\n\n\n\n\n\nD",
+    "Ж\n\n\n\n\n\nV",
+    "Э\n\n\n\n\n\n\\",
+    ".\n\n\n\n\n\n>"
+  ],
+  [
+    {
+      "x": 1.25
+    },
+    "Я\n\n\n\n\n\nQ",
+    "Ч\n\n\n\n\n\n⎴",
+    "С\n\n\n\n\n\nS",
+    "М\n\n\n\n\n\nM",
+    "И\n\n\n\n\n\nI",
+    "Т\n\n\n\n\n\nT",
+    "Ь\n\n\n\n\n\nX",
+    "Б\n\n\n\n\n\nB",
+    "Ю\n\n\n\n\n\n@",
+    ",\n\n\n\n\n\n<",
+    "/\n\n\n\n\n\n?",
+    "ЗБ\n\n\n\n\n\n_"
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "a": 7
+    },
+    "ПС",
+    {
+      "x": 0.25,
+      "a": 5
+    },
+    "ПС\n\n\n\n\n\nФИКС",
+    {
+      "c": "#CE4D61",
+      "a": 7
+    },
+    "↖",
+    "↑",
+    "↓",
+    {
+      "w": 3
+    },
+    "",
+    "←",
+    "ПВ",
+    "→",
+    "ПС",
+    "ВК"
+  ]
+]
