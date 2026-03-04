@@ -1,5 +1,9 @@
-# Электроника К 001 ДОН/Elektronika K 001 DON
+# Электроника К 001 ДОН<br>Elektronika K 001 DON
 Information about the Specialist-compatible constructor kit computer.
+
+![Elektronika logo](/Images/Elektronika_K001_DON_Logo.jpg)
+
+![Elektronika computer](/Images/Elektronika_K001_DON_Computer_small.png)
 
 ## Firmware
 A dump of the КС573РФ2 (2716 analogue) EPROM.<br>
