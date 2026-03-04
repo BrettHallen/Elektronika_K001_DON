@@ -1,0 +1,5 @@
+.DS_Store
+/Elektronika_K001_DON_Keyboard/Elektronika_K001_DON_Keyboard-backups
+*.kicad_prl
+Elektronika_K001_DON_Keyboard/fp-info-cache
+*.lck
