@@ -53,6 +53,8 @@ Interestingly the Specialist design has a row of function keys along the top: HE
 
 These aren't labelled on the K001 DON but they should function - I have included them.<br>
 
+![Replacement keyboard](/Elektronika_K001_DON_Keyboard/Elektronika_K001_DON_Keyboard_3D.png)
+
 ## Specialist Information
 A great source of information about the Specialist design can be found on [Alexey's retro computer repository](https://github.com/alemorf/retro_computers).<br>
 
