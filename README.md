@@ -57,6 +57,8 @@ Interestingly the Specialist design has a row of function keys along the top: HE
 
 These aren't labelled on the K001 DON but they should function - I have included them.<br>
 
+![Replacement keyboard layout](/Elektronika_K001_DON_Keyboard/Specialist_Keyboard_Layout.jpg)
+
 ![Replacement keyboard](/Elektronika_K001_DON_Keyboard/Elektronika_K001_DON_Keyboard_3D.png)
 
 ## [Specialist Information](/Specialist_Information)
