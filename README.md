@@ -5,6 +5,10 @@ Information about the Specialist-compatible constructor kit computer manufacture
 
 ![Elektronika computer](/Images/Elektronika_K001_DON_Computer_small.png)
 
+Here is the packaging - the poly is quite dense and in very good condition, but the label has degraded somewhat I'm afraid.<br>
+
+![Packaging](/Images/Elektronika_K001_DON_Computer_Box_small.png)
+
 The blurb on the top of the box says the following:<br>
 > Набор "Конструктор" Персональной микро-ЭВМ<br>
 >
