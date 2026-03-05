@@ -48,6 +48,8 @@ This appears to be the pinout for the 5-pin DIN power socket:
 
 I have created a simple replacement that uses a regulated +12VDC power supply and generates regulated ±5V output.<br>
 
+![Elektronika Power Supply](/Elektronika_K001_DON_Power/Elektronika_K001_DON_Power_3D.png)
+
 ## [Replacement Keyboard](/Elektronika_K001_DON_Keyboard)
 The keyboard is a pretty neat design for the time, nice & simple.  Luckily it is quite easy to replace so here is my attempt using Cherry MX key switches.<br>
 
