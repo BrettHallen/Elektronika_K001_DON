@@ -1,5 +1,5 @@
 # Электроника К 001 ДОН<br>Elektronika K 001 DON
-Information about the Specialist-compatible constructor kit computer.
+Information about the Specialist-compatible constructor kit computer manufactured in Rostov-on-Don (Ростов-на-Дону) in the Russian SFSR by [ПАО "ГРАНИТ" (Granite)](https://www.paogranit.ru/) in the late 1980s.
 
 ![Elektronika logo](/Images/Elektronika_K001_DON_Logo.jpg)
 
