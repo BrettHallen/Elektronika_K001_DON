@@ -42,6 +42,14 @@ A dump of the КС573РФ2 (2716 analogue) EPROM.<br>
 
 This has some minor differences with the original C000 Loader binary for the [Specialist](/Specialist_Information/Firmware).<br>
 
+## Video Output
+It has a 5-pin DIN for audio & video output:<br>
+- Pin 1 = audio
+- Pin 2 = ground
+- Pin 3 = n/c
+- Pin 4 = video (B&W)
+- Pin 5 = n/c
+
 ## [Power](/Elektronika_K001_DON_Power)
 This appears to be the pinout for the 5-pin DIN power socket:
 - Pin 1 = +12V regulated
