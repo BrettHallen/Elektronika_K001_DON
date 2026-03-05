@@ -36,15 +36,17 @@ In English:<br>
 ## Firmware
 A dump of the КС573РФ2 (2716 analogue) EPROM.<br>
 
-This has some minor differences with the C000 Loader binary on Alexey's Specialist repository (see below).<br>
+This has some minor differences with the original C000 Loader binary for the [Specialist](/Specialist_Information/Firmware).<br>
 
-## Power
+## [Power](/Elektronika_K001_DON_Power)
 This appears to be the pinout for the 5-pin DIN power socket:
 - Pin 1 = +12V regulated
 - Pin 2 = ground (общий)
 - Pin 3 = +5V regulated
 - Pin 4 = -5V unregulated
 - Pin 5 = -5V unregulated
+
+I have created a simple replacement that uses a regulated +12VDC power supply and generates regulated ±5V output.<br>
 
 ## [Replacement Keyboard](/Elektronika_K001_DON_Keyboard)
 The keyboard is a pretty neat design for the time, nice & simple.  Luckily it is quite easy to replace so here is my attempt using Cherry MX key switches.<br>
@@ -55,8 +57,7 @@ These aren't labelled on the K001 DON but they should function - I have included
 
 ![Replacement keyboard](/Elektronika_K001_DON_Keyboard/Elektronika_K001_DON_Keyboard_3D.png)
 
-## Specialist Information
+## [Specialist Information](/Specialist_Information)
 A great source of information about the Specialist design can be found on [Alexey's retro computer repository](https://github.com/alemorf/retro_computers).<br>
 
-The Specialist folder is [here](https://github.com/alemorf/retro_computers/tree/master/Specialist).<br>
-
+I have copied some of the useful information such as the original firmware and "Modelist Constructor" magazine articles.<br>
