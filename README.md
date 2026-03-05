@@ -61,6 +61,16 @@ These aren't labelled on the K001 DON but they should function - I have included
 
 ![Replacement keyboard](/Elektronika_K001_DON_Keyboard/Elektronika_K001_DON_Keyboard_3D.png)
 
+### Special Keys
+There are some Soviet-specific keys on the keyboard - here is my rough understanding:
+- НР = Нижний Регистр (lower case/register)
+- НР ФИКС = Нижний Регистр Fix (shift lock)
+- ЗБ = Забой (backspace)
+- ПС = Перевод Строки (line feed)
+- ПВ = Повтор/Вставка (auto-repeat)
+- ВК = Возврат Каретки (carriage return)
+- СБР = Сброс (reset)
+
 ## [Specialist Information](/Specialist_Information)
 A great source of information about the Specialist design can be found on [Alexey's retro computer repository](https://github.com/alemorf/retro_computers).<br>
 
