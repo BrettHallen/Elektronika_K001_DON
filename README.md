@@ -46,6 +46,8 @@ This appears to be the pinout for the 5-pin DIN power socket:
 - Pin 4 = -5V unregulated
 - Pin 5 = -5V unregulated
 
+![Power pinout](/Images/Elektronika_K001_DON_Power_Pinout_small.png)
+
 I have created a simple replacement that uses a regulated +12VDC power supply and generates regulated ±5V output.<br>
 
 ![Elektronika Power Supply](/Elektronika_K001_DON_Power/Elektronika_K001_DON_Power_3D.png)
