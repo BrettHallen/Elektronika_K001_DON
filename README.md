@@ -37,6 +37,10 @@ In English:<br>
 > 3. Runs a variety of intellectual game programs;
 > 4. Stores the database you have created.
 
+## Videos
+- [Part 1: Initial Look](https://youtu.be/PEJ6cLXKCgM)
+- [Part 2: First Power On](https://youtu.be/MBkoUaQZSSI)
+
 ## Firmware
 A dump of the КС573РФ2 (2716 analogue) EPROM.<br>
 
