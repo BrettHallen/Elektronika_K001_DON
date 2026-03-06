@@ -965,6 +965,46 @@
 			(embedded_fonts no)
 		)
 	)
+	(text_box "COLUMNS (LEFT)\nPin 1 = Col 12\nPin 2 = Col 7\nPin 3 = Col 13\nPin 4 = Col 6\nPin 7 = Col 1\nPin 9 = Col 2\nPin 10 = Col 3\nPin 11 = Pin 4\nPin 12 = Col 5\nPin 13 = Col 8\nPin 14 = Col 11\nPin 15 = Col 9\nPin 16 = Col 10"
+		(exclude_from_sim no)
+		(at 85.09 152.4 0)
+		(size 20.32 30.48)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "0ecc8d0c-b5c9-4858-ae66-7bde78723cfc")
+	)
+	(text_box "ROWS (RIGHT)\nPin 1 = Row B\nPin 2 = Row C\nPin 3 = Row D\nPin 4 = Row E\nPin 5 = Row F\nPin 6 = Row G\nPin 7 = Row H\nPin 8 = Row A"
+		(exclude_from_sim no)
+		(at 21.59 157.48 0)
+		(size 17.78 20.32)
+		(margins 0.9525 0.9525 0.9525 0.9525)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left top)
+		)
+		(uuid "5e075804-b025-4bdf-8de9-0ab238f74886")
+	)
 	(junction
 		(at 186.69 91.44)
 		(diameter 0)
@@ -3144,7 +3184,7 @@
 		(uuid "172d57b1-829e-482c-9f3f-674302ac298d")
 	)
 	(label "COL_10"
-		(at 78.74 175.26 180)
+		(at 114.3 176.53 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3164,7 +3204,7 @@
 		(uuid "2a2fdb6b-eb7c-43fe-97c6-2ada3c232547")
 	)
 	(label "COL_13"
-		(at 78.74 182.88 180)
+		(at 114.3 184.15 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3184,7 +3224,7 @@
 		(uuid "365591a6-a327-4580-a859-07ca911dd59f")
 	)
 	(label "COL_9"
-		(at 78.74 172.72 180)
+		(at 114.3 173.99 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3194,7 +3234,7 @@
 		(uuid "3e1fbc3e-20cf-4aa5-86ca-acc722987ab5")
 	)
 	(label "ROW_B"
-		(at 39.37 156.21 180)
+		(at 48.26 162.56 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3204,67 +3244,67 @@
 		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb106")
 	)
 	(label "ROW_C"
-		(at 39.37 158.75 180)
+		(at 48.26 165.1 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb106")
+		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb107")
 	)
 	(label "ROW_D"
-		(at 39.37 161.29 180)
+		(at 48.26 167.64 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb106")
+		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb108")
 	)
 	(label "ROW_E"
-		(at 39.37 163.83 180)
+		(at 48.26 170.18 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb106")
+		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb109")
 	)
 	(label "ROW_F"
-		(at 39.37 166.37 180)
+		(at 48.26 172.72 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb106")
+		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb10a")
 	)
 	(label "ROW_G"
-		(at 39.37 168.91 180)
+		(at 48.26 175.26 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb106")
+		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb10b")
 	)
 	(label "ROW_H"
-		(at 39.37 171.45 180)
+		(at 48.26 177.8 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb106")
+		(uuid "438a4ed2-6052-488d-9dde-6d7348ccb10c")
 	)
 	(label "COL_1"
-		(at 78.74 152.4 180)
+		(at 114.3 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3274,7 +3314,7 @@
 		(uuid "4d070b61-312f-431e-bc0c-b527e80524fb")
 	)
 	(label "COL_6"
-		(at 78.74 165.1 180)
+		(at 114.3 166.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3294,7 +3334,7 @@
 		(uuid "504725aa-1a49-411f-8412-bc435f140111")
 	)
 	(label "COL_4"
-		(at 78.74 160.02 180)
+		(at 114.3 161.29 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3324,7 +3364,7 @@
 		(uuid "6cb1b38f-c2f1-44dc-aa06-37676b6feead")
 	)
 	(label "COL_5"
-		(at 78.74 162.56 180)
+		(at 114.3 163.83 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3354,7 +3394,7 @@
 		(uuid "72ae018c-a6cb-4daa-af00-6fadb0f821ef")
 	)
 	(label "ROW_A"
-		(at 39.37 153.67 180)
+		(at 48.26 160.02 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3374,7 +3414,7 @@
 		(uuid "836a09bb-0512-4791-96ba-ab2fcd4a05c8")
 	)
 	(label "COL_2"
-		(at 78.74 154.94 180)
+		(at 114.3 156.21 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3384,7 +3424,7 @@
 		(uuid "900fcc32-0a7b-42af-9de1-1142dd56b440")
 	)
 	(label "COL_11"
-		(at 78.74 177.8 180)
+		(at 114.3 179.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3394,7 +3434,7 @@
 		(uuid "9129b4e0-9729-4fe6-aa43-80fd0a040ed8")
 	)
 	(label "COL_12"
-		(at 78.74 180.34 180)
+		(at 114.3 181.61 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3444,7 +3484,7 @@
 		(uuid "bcc693e3-7a4d-4097-8b00-99f6e356aa35")
 	)
 	(label "COL_3"
-		(at 78.74 157.48 180)
+		(at 114.3 158.75 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3454,7 +3494,7 @@
 		(uuid "cf39716d-ab87-4c8e-8911-401346b6a42b")
 	)
 	(label "COL_7"
-		(at 78.74 167.64 180)
+		(at 114.3 168.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3464,7 +3504,7 @@
 		(uuid "d11525c1-4790-4470-85f9-28a3a2ef7d14")
 	)
 	(label "COL_8"
-		(at 78.74 170.18 180)
+		(at 114.3 171.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5365,10 +5405,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294206")
+			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294207")
 		)
 		(pin "1"
-			(uuid "b4db83e5-c271-4847-9c59-1945e4e21156")
+			(uuid "b4db83e5-c271-4847-9c59-1945e4e21157")
 		)
 		(instances
 			(project ""
@@ -5501,10 +5541,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294206")
+			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294208")
 		)
 		(pin "1"
-			(uuid "b4db83e5-c271-4847-9c59-1945e4e21156")
+			(uuid "b4db83e5-c271-4847-9c59-1945e4e21158")
 		)
 		(instances
 			(project ""
@@ -5977,10 +6017,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294206")
+			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294209")
 		)
 		(pin "1"
-			(uuid "b4db83e5-c271-4847-9c59-1945e4e21156")
+			(uuid "b4db83e5-c271-4847-9c59-1945e4e21159")
 		)
 		(instances
 			(project ""
@@ -7421,7 +7461,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x13")
-		(at 83.82 167.64 0)
+		(at 119.38 168.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7430,7 +7470,7 @@
 		(fields_autoplaced yes)
 		(uuid "c4dd156a-3006-4d0e-a564-8c8a5fc9e818")
 		(property "Reference" "J2"
-			(at 86.36 166.3699 0)
+			(at 121.92 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7479,7 @@
 			)
 		)
 		(property "Value" "COLS"
-			(at 86.36 168.9099 0)
+			(at 121.92 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7448,7 +7488,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical"
-			(at 83.82 167.64 0)
+			(at 119.38 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7457,7 +7497,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 83.82 167.64 0)
+			(at 119.38 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7466,7 +7506,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x13, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 83.82 167.64 0)
+			(at 119.38 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7916,10 +7956,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294206")
+			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c29420a")
 		)
 		(pin "1"
-			(uuid "b4db83e5-c271-4847-9c59-1945e4e21156")
+			(uuid "b4db83e5-c271-4847-9c59-1945e4e2115a")
 		)
 		(instances
 			(project ""
@@ -8000,7 +8040,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x08")
-		(at 44.45 161.29 0)
+		(at 53.34 167.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8009,7 +8049,7 @@
 		(fields_autoplaced yes)
 		(uuid "ea9e0301-e954-48cf-8b22-0a05be309655")
 		(property "Reference" "J1"
-			(at 46.99 161.2899 0)
+			(at 55.88 167.6399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8018,7 +8058,7 @@
 			)
 		)
 		(property "Value" "ROWS"
-			(at 46.99 163.8299 0)
+			(at 55.88 170.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8027,7 +8067,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
-			(at 44.45 161.29 0)
+			(at 53.34 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8036,7 +8076,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 161.29 0)
+			(at 53.34 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8045,7 +8085,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 44.45 161.29 0)
+			(at 53.34 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8140,10 +8180,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c294206")
+			(uuid "63e1ffac-776a-4a51-a8a5-b56b9c29420b")
 		)
 		(pin "1"
-			(uuid "b4db83e5-c271-4847-9c59-1945e4e21156")
+			(uuid "b4db83e5-c271-4847-9c59-1945e4e2115b")
 		)
 		(instances
 			(project ""
