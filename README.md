@@ -92,7 +92,16 @@ There are some Soviet-specific keys on the keyboard - here is my rough understan
 - ВК = Возврат Каретки (carriage return)
 - СБР = Сброс (reset)
 
-## [Specialist Information](/Specialist_Information)
+## Useful Links
+### [Alexey's Vintage Sovit Computer Repository](/Specialist_Information)
 A great source of information about the Specialist design can be found on [Alexey's retro computer repository](https://github.com/alemorf/retro_computers).<br>
 
 I have copied some of the useful information such as the original firmware and "Modelist Constructor" magazine articles.<br>
+
+### [Mick Laboratory](http://www.micklab.ru/Specialist.htm)
+
+### [spetsialist-mx.ru](https://web.archive.org/web/20210722200656/http://www.spetsialist-mx.ru/)
+Unfortunately the original site is lost so there is only this archive.  I have added some of the useful info to the Specialist section here as an additional backup - this included a [scan of the DON's manual](https://web.archive.org/web/20210516222216/http://spetsialist-mx.ru/index16.html)!
+
+
+
