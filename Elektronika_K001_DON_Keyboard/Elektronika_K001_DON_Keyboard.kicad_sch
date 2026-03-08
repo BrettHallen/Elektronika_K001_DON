@@ -3609,7 +3609,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 132.08 60.96 0)
 			(effects
 				(font
@@ -3677,7 +3677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 200.66 116.84 0)
 			(effects
 				(font
@@ -3745,7 +3745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 233.68 130.81 0)
 			(effects
 				(font
@@ -3813,7 +3813,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 217.17 116.84 0)
 			(effects
 				(font
@@ -3881,7 +3881,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 233.68 88.9 0)
 			(effects
 				(font
@@ -3949,7 +3949,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 59.69 60.96 0)
 			(effects
 				(font
@@ -4017,7 +4017,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 217.17 102.87 0)
 			(effects
 				(font
@@ -4085,7 +4085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 149.86 116.84 0)
 			(effects
 				(font
@@ -4153,7 +4153,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 233.68 74.93 0)
 			(effects
 				(font
@@ -4221,7 +4221,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 59.69 130.81 0)
 			(effects
 				(font
@@ -4289,7 +4289,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 132.08 116.84 0)
 			(effects
 				(font
@@ -4357,7 +4357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 114.3 74.93 0)
 			(effects
 				(font
@@ -4425,7 +4425,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 250.19 116.84 0)
 			(effects
 				(font
@@ -4493,7 +4493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 167.64 74.93 0)
 			(effects
 				(font
@@ -4561,7 +4561,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 200.66 130.81 0)
 			(effects
 				(font
@@ -4629,7 +4629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 149.86 88.9 0)
 			(effects
 				(font
@@ -4697,7 +4697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 149.86 102.87 0)
 			(effects
 				(font
@@ -4765,7 +4765,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 96.52 102.87 0)
 			(effects
 				(font
@@ -4833,7 +4833,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 217.17 130.81 0)
 			(effects
 				(font
@@ -4901,7 +4901,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 233.68 116.84 0)
 			(effects
 				(font
@@ -4969,7 +4969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 78.74 116.84 0)
 			(effects
 				(font
@@ -5037,7 +5037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 233.68 60.96 0)
 			(effects
 				(font
@@ -5105,7 +5105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 250.19 60.96 0)
 			(effects
 				(font
@@ -5173,7 +5173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 96.52 60.96 0)
 			(effects
 				(font
@@ -5241,7 +5241,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 217.17 88.9 0)
 			(effects
 				(font
@@ -5309,7 +5309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 167.64 116.84 0)
 			(effects
 				(font
@@ -5377,7 +5377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 40.64 60.96 0)
 			(effects
 				(font
@@ -5445,7 +5445,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 132.08 74.93 0)
 			(effects
 				(font
@@ -5513,7 +5513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 59.69 102.87 0)
 			(effects
 				(font
@@ -5581,7 +5581,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 250.19 88.9 0)
 			(effects
 				(font
@@ -5649,7 +5649,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 78.74 130.81 0)
 			(effects
 				(font
@@ -5717,7 +5717,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 114.3 116.84 0)
 			(effects
 				(font
@@ -5785,7 +5785,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 184.15 116.84 0)
 			(effects
 				(font
@@ -5853,7 +5853,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 250.19 102.87 0)
 			(effects
 				(font
@@ -5921,7 +5921,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 167.64 60.96 0)
 			(effects
 				(font
@@ -5989,7 +5989,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 40.64 73.66 0)
 			(effects
 				(font
@@ -6057,7 +6057,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 200.66 60.96 0)
 			(effects
 				(font
@@ -6125,7 +6125,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 167.64 102.87 0)
 			(effects
 				(font
@@ -6193,7 +6193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 96.52 116.84 0)
 			(effects
 				(font
@@ -6261,7 +6261,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 149.86 74.93 0)
 			(effects
 				(font
@@ -6329,7 +6329,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 78.74 88.9 0)
 			(effects
 				(font
@@ -6397,7 +6397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 78.74 60.96 0)
 			(effects
 				(font
@@ -6465,7 +6465,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 132.08 102.87 0)
 			(effects
 				(font
@@ -6533,7 +6533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 184.15 88.9 0)
 			(effects
 				(font
@@ -6601,7 +6601,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 217.17 60.96 0)
 			(effects
 				(font
@@ -6669,7 +6669,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 184.15 130.81 0)
 			(effects
 				(font
@@ -6737,7 +6737,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 233.68 102.87 0)
 			(effects
 				(font
@@ -6805,7 +6805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 96.52 74.93 0)
 			(effects
 				(font
@@ -6873,7 +6873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 78.74 102.87 0)
 			(effects
 				(font
@@ -6941,7 +6941,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 149.86 60.96 0)
 			(effects
 				(font
@@ -7009,7 +7009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 59.69 116.84 0)
 			(effects
 				(font
@@ -7077,7 +7077,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 250.19 130.81 0)
 			(effects
 				(font
@@ -7145,7 +7145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 200.66 88.9 0)
 			(effects
 				(font
@@ -7213,7 +7213,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 200.66 74.93 0)
 			(effects
 				(font
@@ -7281,7 +7281,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 167.64 88.9 0)
 			(effects
 				(font
@@ -7349,7 +7349,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 114.3 102.87 0)
 			(effects
 				(font
@@ -7417,7 +7417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 184.15 102.87 0)
 			(effects
 				(font
@@ -7588,7 +7588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 217.17 74.93 0)
 			(effects
 				(font
@@ -7656,7 +7656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 114.3 130.81 0)
 			(effects
 				(font
@@ -7724,7 +7724,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 200.66 102.87 0)
 			(effects
 				(font
@@ -7792,7 +7792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 184.15 74.93 0)
 			(effects
 				(font
@@ -7860,7 +7860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 184.15 60.96 0)
 			(effects
 				(font
@@ -7928,7 +7928,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 59.69 74.93 0)
 			(effects
 				(font
@@ -7996,7 +7996,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 96.52 130.81 0)
 			(effects
 				(font
@@ -8152,7 +8152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 59.69 88.9 0)
 			(effects
 				(font
@@ -8220,7 +8220,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 114.3 88.9 0)
 			(effects
 				(font
@@ -8288,7 +8288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 132.08 88.9 0)
 			(effects
 				(font
@@ -8356,7 +8356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 78.74 74.93 0)
 			(effects
 				(font
@@ -8424,7 +8424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 114.3 60.96 0)
 			(effects
 				(font
@@ -8492,7 +8492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 96.52 88.9 0)
 			(effects
 				(font
@@ -8560,7 +8560,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 250.19 74.93 0)
 			(effects
 				(font
@@ -8628,7 +8628,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u"
+		(property "Footprint" "Clueless_Engineer:SW_Gateron_LowProfile_THT"
 			(at 167.64 130.81 0)
 			(effects
 				(font
