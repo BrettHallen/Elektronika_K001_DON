@@ -40,6 +40,7 @@ In English:<br>
 ## Videos
 - [Part 1: Initial Look](https://youtu.be/PEJ6cLXKCgM)
 - [Part 2: First Power On](https://youtu.be/MBkoUaQZSSI)
+- [Part 3: Video Fault](https://youtu.be/eovsz4YsJxw)
 
 ## Firmware
 A dump of the КС573РФ2 (2716 analogue) EPROM.<br>
